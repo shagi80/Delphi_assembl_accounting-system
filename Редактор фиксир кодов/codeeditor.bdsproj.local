@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015.05.09 17:16:21.546.pas,C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Unit2.pas=C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Текущие разработки\Учет СБЦ\май 2015\DataUnit.pas</Transaction>
+    <Transaction>2015.05.09 17:16:30.211.pas,C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Unit1.pas=C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Текущие разработки\Учет СБЦ\май 2015\MainUnit.pas</Transaction>
+    <Transaction>2015.05.09 17:16:30.211.dfm,C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Текущие разработки\Учет СБЦ\май 2015\MainUnit.dfm</Transaction>
+    <Transaction>2015.05.09 17:16:44.281.bdsproj,C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Текущие разработки\Учет СБЦ\май 2015\OTK2.bdsproj</Transaction>
+    <Transaction>2015.05.09 17:26:14.777.bdsproj,C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Текущие разработки\Учет СБЦ\май 2015\OTK2.bdsproj=C:\Users\ShaginyanSergey\Documents\Borland Studio Projects\Текущие разработки\Учет СБЦ\май 2015\codeeditor.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
